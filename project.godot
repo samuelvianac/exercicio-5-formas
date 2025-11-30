@@ -1,0 +1,9 @@
+[application]
+
+config/name="Exercicio05_Integracao_2D_3D"
+run/main_scene="res://Menu2D.tscn"
+
+[display]
+
+window/size/width=1024
+window/size/height=600
